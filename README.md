@@ -44,7 +44,6 @@ I am a Spoftware & AI  Engenieer Student at **FST Errachidia** . I bridge the ga
 | :--- | :--- | :--- |
 | **[Priva-Note](https://github.com/yosayman/Priva-Note)** | A secure web application designed to privately and efficiently distribute academic grades to students. | `Node.js`, `React`, `Express` |
 | **[YOSi_Lens](https://github.com/yosayman/YOSi_Lens)** | A dynamic portfolio website showcasing personal photography work with a clean, modern UI. | `Next.js`, `TailwindCSS` |
-| **AI Agent Automation** | Developing intelligent agents to automate complex workflows and data processing tasks. | `Python`, `LLMs`, `APIs` |
 
 ---
 
