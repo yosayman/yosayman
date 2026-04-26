@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Spoftware & AI  Engenieer Student at **FST Errachidia** . I bridge the gap between traditional software engineering and modern artificial intelligence by building intelligent, automated, and scalable systems.
+I am a AI & Software Engineer Student at **FST Errachidia** . I bridge the gap between traditional software engineering and modern artificial intelligence by building intelligent, automated, and scalable systems.
 
 * 🔭 Currently working on: **YOSi_Lens** (photography portfolio) and **Priva-Note** (secure academic grade delivery system).
 * 🌱 Exploring and mastering: **AI Agents**, **Workflow Automation**.
