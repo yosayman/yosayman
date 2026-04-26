@@ -1,4 +1,4 @@
-# Hi there, I'm Ayman Youssfi 👋
+# Hi there, I'm Ayman Youssfi...
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+%26+AI+Engineering+Student;Specialized+in+Full-Stack+%26+AI+Agents;Workflow+Automation+Enthusiast" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a AI & Software Engineer Student at **FST Errachidia** . I bridge the gap between traditional software engineering and modern Artificial intelligence by building intelligent, automated, and scalable systems.
 
@@ -17,7 +17,7 @@ I am a AI & Software Engineer Student at **FST Errachidia** . I bridge the gap b
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Frameworks**
 <p>
@@ -38,7 +38,7 @@ I am a AI & Software Engineer Student at **FST Errachidia** . I bridge the gap b
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Technologies |
 | :--- | :--- | :--- |
